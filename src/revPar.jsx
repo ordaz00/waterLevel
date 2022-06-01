@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-function revPar(){//reservoir paragraph
+function revPar() {//reservoir paragraph
   return (
     <div>
       <p>

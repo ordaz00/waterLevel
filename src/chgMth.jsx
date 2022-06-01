@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Pkr from "./mthYrPkr.jsx"
+import Pkr from "./pkr.jsx";
 
 function chgMth(){
   return(
